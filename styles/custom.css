@@ -1,0 +1,20 @@
+<style>
+div.info {    
+    background-color: #E8FFFF;
+    border-color: #6987bf;
+    border-left: 5px solid #6987bf;
+    padding: 0.5em;
+}
+div.exercise {    
+    background-color: #EFFECC;
+    border-color: #ccfd58;
+    border-left: 5px solid #ccfd58;
+    padding: 0.5em;
+}
+div.warn {    
+    background-color: #fcf2f2;
+    border-color: #dFb5b4;
+    border-left: 5px solid #dfb5b4;
+    padding: 0.5em;
+}
+</style>
